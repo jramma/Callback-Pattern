@@ -1,4 +1,3 @@
-package Callback;
 
 public class DeudaCuentaBancaria {
 
